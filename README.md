@@ -1,4 +1,4 @@
-# Task. 
+# Task
 
 You need to implement an analog of the following website http://quotes.toscrape.com in Django.
 
