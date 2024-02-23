@@ -1,4 +1,4 @@
-#Task. 
+# Task. 
 
 You need to implement an analog of the following website http://quotes.toscrape.com in Django.
 
@@ -9,7 +9,7 @@ You need to implement an analog of the following website http://quotes.toscrape.
 5. You can visit the page of each author without user authentication
 6. All citations are available for viewing without user authentication
 
-##Additional part
+## Additional part
 
 1. Search for quotes by tags. When you click on a tag, a list of quotes with that tag is displayed.
 2. Implement the "Top Ten tags" block and display the most popular tags.
